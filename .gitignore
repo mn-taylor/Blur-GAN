@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Data files
+*.csv
+*.pt
+*.h5
+*.zip
+
+# OS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode project settings
+.vscode/
+
+# Ignore your large file
+*.pt
