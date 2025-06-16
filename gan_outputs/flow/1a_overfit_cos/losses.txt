@@ -1,0 +1,74 @@
+device: cpu
+Preparing dataset ... 
+Initializing 
+Epoch [0/50], D Loss: 0.6615, G Loss: 0.6570
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_0.png
+Completed Epoch in 3.9223101139068604 seconds
+Completed Epoch in 0.9296200275421143 seconds
+Completed Epoch in 0.9279696941375732 seconds
+Completed Epoch in 0.9521300792694092 seconds
+Completed Epoch in 0.9463131427764893 seconds
+Epoch [5/50], D Loss: 0.6960, G Loss: 0.7422
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_5.png
+Completed Epoch in 3.9821596145629883 seconds
+Completed Epoch in 0.8773171901702881 seconds
+Completed Epoch in 0.8598365783691406 seconds
+Completed Epoch in 0.8611390590667725 seconds
+Completed Epoch in 0.852973461151123 seconds
+Epoch [10/50], D Loss: 0.6958, G Loss: 0.7113
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_10.png
+Completed Epoch in 3.593635082244873 seconds
+Completed Epoch in 0.8767342567443848 seconds
+Completed Epoch in 0.8520660400390625 seconds
+Completed Epoch in 0.8606386184692383 seconds
+Completed Epoch in 0.8827462196350098 seconds
+Epoch [15/50], D Loss: 0.6958, G Loss: 0.7048
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_15.png
+Completed Epoch in 3.7452175617218018 seconds
+Completed Epoch in 0.8580341339111328 seconds
+Completed Epoch in 0.8564145565032959 seconds
+Completed Epoch in 0.8690969944000244 seconds
+Completed Epoch in 0.8589551448822021 seconds
+Epoch [20/50], D Loss: 0.6962, G Loss: 0.7065
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_20.png
+Completed Epoch in 3.7785465717315674 seconds
+Completed Epoch in 0.8884871006011963 seconds
+Completed Epoch in 0.8564980030059814 seconds
+Completed Epoch in 0.8737361431121826 seconds
+Completed Epoch in 0.8574891090393066 seconds
+Epoch [25/50], D Loss: 0.6952, G Loss: 0.7062
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_25.png
+Completed Epoch in 3.753906488418579 seconds
+Completed Epoch in 0.8827507495880127 seconds
+Completed Epoch in 0.9062204360961914 seconds
+Completed Epoch in 0.8638737201690674 seconds
+Completed Epoch in 0.8579714298248291 seconds
+Epoch [30/50], D Loss: 0.6988, G Loss: 0.7298
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_30.png
+Completed Epoch in 3.441786289215088 seconds
+Completed Epoch in 0.8878991603851318 seconds
+Completed Epoch in 0.8754458427429199 seconds
+Completed Epoch in 0.8666422367095947 seconds
+Completed Epoch in 0.9152359962463379 seconds
+Epoch [35/50], D Loss: 0.6939, G Loss: 0.7347
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_35.png
+Completed Epoch in 3.7183678150177 seconds
+Completed Epoch in 0.860478401184082 seconds
+Completed Epoch in 0.838731050491333 seconds
+Completed Epoch in 0.8476877212524414 seconds
+Completed Epoch in 0.8449175357818604 seconds
+Epoch [40/50], D Loss: 0.6913, G Loss: 0.7526
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_40.png
+Completed Epoch in 3.6029903888702393 seconds
+Completed Epoch in 0.858295202255249 seconds
+Completed Epoch in 0.8561277389526367 seconds
+Completed Epoch in 0.8748619556427002 seconds
+Completed Epoch in 0.8631381988525391 seconds
+Epoch [45/50], D Loss: 0.6419, G Loss: 1.1888
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_45.png
+Completed Epoch in 3.308044910430908 seconds
+Completed Epoch in 0.9011647701263428 seconds
+Completed Epoch in 0.9342243671417236 seconds
+Completed Epoch in 0.9109249114990234 seconds
+Completed Epoch in 0.9005279541015625 seconds
+Saved generated images to ./gan_outputs/flow/1a_overfit_cos/generated_image_epoch_50.png

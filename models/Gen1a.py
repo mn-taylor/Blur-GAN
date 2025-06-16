@@ -7,9 +7,8 @@ import torchvision.transforms as transforms
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 import numpy as np
-from GAN.UnconditionalGen import UncondGenerator
-from GAN.ConditonalGen import CondGenerator
-from GAN import UnconditionalGen, ConditonalGen
+from models.UnconditionalGen import UncondGenerator
+from models.ConditonalGen import CondGenerator
 
 
 class Gen1a(nn.Module):
