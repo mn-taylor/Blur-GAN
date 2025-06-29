@@ -1,0 +1,18 @@
+device: cpu
+Preparing dataset ... 
+Initializing 
+Epoch [0/10], D Loss: 0.6418, G Loss: 0.9382
+Saved generated images to ./gan_outputs/flow/1a_baseline_epochs_10/generated_image_epoch_0.png
+Completed Epoch in 38.656099796295166 seconds at t=0
+Completed Epoch in 31.1328341960907 seconds at t=0
+Completed Epoch in 31.288617610931396 seconds at t=0
+Completed Epoch in 30.82639193534851 seconds at t=0
+Completed Epoch in 32.442803621292114 seconds at t=0
+Epoch [5/10], D Loss: 0.5973, G Loss: 1.1221
+Saved generated images to ./gan_outputs/flow/1a_baseline_epochs_10/generated_image_epoch_5.png
+Completed Epoch in 37.005149602890015 seconds at t=0
+Completed Epoch in 34.64036417007446 seconds at t=0
+Completed Epoch in 30.88591980934143 seconds at t=0
+Completed Epoch in 30.055233478546143 seconds at t=0
+Completed Epoch in 29.332473754882812 seconds at t=0
+Saved generated images to ./gan_outputs/flow/1a_baseline_epochs_10/generated_image_epoch_10.png

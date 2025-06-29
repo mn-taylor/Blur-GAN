@@ -1,0 +1,265 @@
+device: cpu
+Preparing dataset ... 
+Initializing 
+Epoch [0/200], D Loss: 0.6927, G Loss: 0.6989
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_0.png
+Completed Epoch in 55.47513389587402 seconds at t=1.0
+Completed Epoch in 51.035622119903564 seconds at t=0.995
+Completed Epoch in 50.87705183029175 seconds at t=0.99
+Completed Epoch in 50.82182240486145 seconds at t=0.985
+Completed Epoch in 50.18785071372986 seconds at t=0.98
+Epoch [5/200], D Loss: 0.4897, G Loss: 1.4510
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_5.png
+Completed Epoch in 51.76666474342346 seconds at t=0.975
+Completed Epoch in 51.27138614654541 seconds at t=0.97
+Completed Epoch in 51.53697180747986 seconds at t=0.965
+Completed Epoch in 50.79488134384155 seconds at t=0.96
+Completed Epoch in 51.19059944152832 seconds at t=0.955
+Epoch [10/200], D Loss: 0.6565, G Loss: 0.8137
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_10.png
+Completed Epoch in 52.05109429359436 seconds at t=0.95
+Completed Epoch in 51.18562912940979 seconds at t=0.945
+Completed Epoch in 51.23296546936035 seconds at t=0.94
+Completed Epoch in 51.0459623336792 seconds at t=0.935
+Completed Epoch in 51.25406789779663 seconds at t=0.9299999999999999
+Epoch [15/200], D Loss: 0.6560, G Loss: 0.8052
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_15.png
+Completed Epoch in 52.71301221847534 seconds at t=0.925
+Completed Epoch in 50.97258162498474 seconds at t=0.92
+Completed Epoch in 51.48091244697571 seconds at t=0.915
+Completed Epoch in 50.666836977005005 seconds at t=0.91
+Completed Epoch in 50.80169701576233 seconds at t=0.905
+Epoch [20/200], D Loss: 0.6590, G Loss: 0.7994
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_20.png
+Completed Epoch in 51.92223310470581 seconds at t=0.9
+Completed Epoch in 51.49720478057861 seconds at t=0.895
+Completed Epoch in 51.74961495399475 seconds at t=0.89
+Completed Epoch in 51.05338525772095 seconds at t=0.885
+Completed Epoch in 51.17689323425293 seconds at t=0.88
+Epoch [25/200], D Loss: 0.3752, G Loss: 1.6494
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_25.png
+Completed Epoch in 53.476038455963135 seconds at t=0.875
+Completed Epoch in 50.63284254074097 seconds at t=0.87
+Completed Epoch in 50.898831605911255 seconds at t=0.865
+Completed Epoch in 50.19991421699524 seconds at t=0.86
+Completed Epoch in 50.36751127243042 seconds at t=0.855
+Epoch [30/200], D Loss: 0.2033, G Loss: 2.8550
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_30.png
+Completed Epoch in 52.54919171333313 seconds at t=0.85
+Completed Epoch in 51.312650203704834 seconds at t=0.845
+Completed Epoch in 49.80076265335083 seconds at t=0.84
+Completed Epoch in 49.15409016609192 seconds at t=0.835
+Completed Epoch in 49.63623857498169 seconds at t=0.83
+Epoch [35/200], D Loss: 0.5521, G Loss: 1.1360
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_35.png
+Completed Epoch in 51.680718660354614 seconds at t=0.825
+Completed Epoch in 49.831411361694336 seconds at t=0.8200000000000001
+Completed Epoch in 49.21676182746887 seconds at t=0.815
+Completed Epoch in 48.808279037475586 seconds at t=0.81
+Completed Epoch in 48.77398490905762 seconds at t=0.8049999999999999
+Epoch [40/200], D Loss: 0.5314, G Loss: 1.2401
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_40.png
+Completed Epoch in 50.232861042022705 seconds at t=0.8
+Completed Epoch in 49.0905544757843 seconds at t=0.795
+Completed Epoch in 49.331175565719604 seconds at t=0.79
+Completed Epoch in 49.031766414642334 seconds at t=0.785
+Completed Epoch in 48.949238300323486 seconds at t=0.78
+Epoch [45/200], D Loss: 0.4931, G Loss: 1.3780
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_45.png
+Completed Epoch in 50.66970753669739 seconds at t=0.775
+Completed Epoch in 47.95281529426575 seconds at t=0.77
+Completed Epoch in 47.85949659347534 seconds at t=0.765
+Completed Epoch in 47.74957299232483 seconds at t=0.76
+Completed Epoch in 47.145179271698 seconds at t=0.755
+Epoch [50/200], D Loss: 0.4829, G Loss: 1.4241
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_50.png
+Completed Epoch in 48.69318413734436 seconds at t=0.75
+Completed Epoch in 47.77990436553955 seconds at t=0.745
+Completed Epoch in 47.154786348342896 seconds at t=0.74
+Completed Epoch in 46.72603750228882 seconds at t=0.735
+Completed Epoch in 46.5698983669281 seconds at t=0.73
+Epoch [55/200], D Loss: 0.1057, G Loss: 4.2970
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_55.png
+Completed Epoch in 48.04853630065918 seconds at t=0.725
+Completed Epoch in 49.37628936767578 seconds at t=0.72
+Completed Epoch in 49.75633788108826 seconds at t=0.7150000000000001
+Completed Epoch in 49.60021257400513 seconds at t=0.71
+Completed Epoch in 49.20269536972046 seconds at t=0.7050000000000001
+Epoch [60/200], D Loss: 0.1905, G Loss: 3.4116
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_60.png
+Completed Epoch in 51.47875380516052 seconds at t=0.7
+Completed Epoch in 50.14184093475342 seconds at t=0.6950000000000001
+Completed Epoch in 49.02009320259094 seconds at t=0.69
+Completed Epoch in 49.13124942779541 seconds at t=0.685
+Completed Epoch in 49.286325454711914 seconds at t=0.6799999999999999
+Epoch [65/200], D Loss: 0.3425, G Loss: 2.1113
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_65.png
+Completed Epoch in 50.81409215927124 seconds at t=0.675
+Completed Epoch in 49.14170217514038 seconds at t=0.6699999999999999
+Completed Epoch in 49.5919623374939 seconds at t=0.665
+Completed Epoch in 49.153058767318726 seconds at t=0.6599999999999999
+Completed Epoch in 49.43593072891235 seconds at t=0.655
+Epoch [70/200], D Loss: 0.3420, G Loss: 2.1847
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_70.png
+Completed Epoch in 51.130104780197144 seconds at t=0.65
+Completed Epoch in 50.161876916885376 seconds at t=0.645
+Completed Epoch in 50.289589643478394 seconds at t=0.64
+Completed Epoch in 49.949870347976685 seconds at t=0.635
+Completed Epoch in 50.36159873008728 seconds at t=0.63
+Epoch [75/200], D Loss: 0.3308, G Loss: 2.1958
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_75.png
+Completed Epoch in 52.36462116241455 seconds at t=0.625
+Completed Epoch in 51.1615514755249 seconds at t=0.62
+Completed Epoch in 51.077556848526 seconds at t=0.615
+Completed Epoch in 50.34103775024414 seconds at t=0.61
+Completed Epoch in 50.56985926628113 seconds at t=0.605
+Epoch [80/200], D Loss: 0.3221, G Loss: 2.2583
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_80.png
+Completed Epoch in 52.83111310005188 seconds at t=0.6
+Completed Epoch in 51.287906885147095 seconds at t=0.595
+Completed Epoch in 51.19065022468567 seconds at t=0.5900000000000001
+Completed Epoch in 51.40247344970703 seconds at t=0.585
+Completed Epoch in 51.438172578811646 seconds at t=0.5800000000000001
+Epoch [85/200], D Loss: 0.0666, G Loss: 5.8849
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_85.png
+Completed Epoch in 53.066768169403076 seconds at t=0.575
+Completed Epoch in 51.164183378219604 seconds at t=0.5700000000000001
+Completed Epoch in 51.24737334251404 seconds at t=0.565
+Completed Epoch in 51.88652014732361 seconds at t=0.56
+Completed Epoch in 52.35124158859253 seconds at t=0.5549999999999999
+Epoch [90/200], D Loss: 0.1090, G Loss: 4.8291
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_90.png
+Completed Epoch in 53.56343746185303 seconds at t=0.55
+Completed Epoch in 52.50865817070007 seconds at t=0.5449999999999999
+Completed Epoch in 52.28617310523987 seconds at t=0.54
+Completed Epoch in 51.865864992141724 seconds at t=0.5349999999999999
+Completed Epoch in 53.20126748085022 seconds at t=0.53
+Epoch [95/200], D Loss: 0.2749, G Loss: 2.6848
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_95.png
+Completed Epoch in 54.30598163604736 seconds at t=0.525
+Completed Epoch in 51.25959515571594 seconds at t=0.52
+Completed Epoch in 53.639731884002686 seconds at t=0.515
+Completed Epoch in 53.32810831069946 seconds at t=0.51
+Completed Epoch in 53.384363412857056 seconds at t=0.505
+Epoch [100/200], D Loss: 0.2623, G Loss: 2.7645
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_100.png
+Completed Epoch in 54.913129568099976 seconds at t=0.5
+Completed Epoch in 52.22837972640991 seconds at t=0.495
+Completed Epoch in 52.88223838806152 seconds at t=0.49
+Completed Epoch in 52.34968280792236 seconds at t=0.485
+Completed Epoch in 52.68670868873596 seconds at t=0.48
+Epoch [105/200], D Loss: 0.2440, G Loss: 2.9121
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_105.png
+Completed Epoch in 53.981714725494385 seconds at t=0.475
+Completed Epoch in 52.94024968147278 seconds at t=0.47
+Completed Epoch in 53.21252512931824 seconds at t=0.46499999999999997
+Completed Epoch in 52.317890644073486 seconds at t=0.45999999999999996
+Completed Epoch in 53.2740740776062 seconds at t=0.45499999999999996
+Epoch [110/200], D Loss: 0.2117, G Loss: 3.1375
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_110.png
+Completed Epoch in 54.98508620262146 seconds at t=0.44999999999999996
+Completed Epoch in 53.41795349121094 seconds at t=0.44499999999999995
+Completed Epoch in 52.62318682670593 seconds at t=0.43999999999999995
+Completed Epoch in 52.258787393569946 seconds at t=0.43500000000000005
+Completed Epoch in 52.25488567352295 seconds at t=0.43000000000000005
+Epoch [115/200], D Loss: 0.0496, G Loss: 7.8893
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_115.png
+Completed Epoch in 53.243438482284546 seconds at t=0.42500000000000004
+Completed Epoch in 52.41746711730957 seconds at t=0.42000000000000004
+Completed Epoch in 52.54883813858032 seconds at t=0.41500000000000004
+Completed Epoch in 52.00947165489197 seconds at t=0.41000000000000003
+Completed Epoch in 52.043219566345215 seconds at t=0.405
+Epoch [120/200], D Loss: 0.0494, G Loss: 6.3884
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_120.png
+Completed Epoch in 53.85433578491211 seconds at t=0.4
+Completed Epoch in 52.5911591053009 seconds at t=0.395
+Completed Epoch in 52.11552858352661 seconds at t=0.39
+Completed Epoch in 51.601072549819946 seconds at t=0.385
+Completed Epoch in 51.46000409126282 seconds at t=0.38
+Epoch [125/200], D Loss: 0.1237, G Loss: 4.4319
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_125.png
+Completed Epoch in 52.74670600891113 seconds at t=0.375
+Completed Epoch in 51.912919998168945 seconds at t=0.37
+Completed Epoch in 52.190059423446655 seconds at t=0.365
+Completed Epoch in 51.783467292785645 seconds at t=0.36
+Completed Epoch in 51.71064281463623 seconds at t=0.355
+Epoch [130/200], D Loss: 0.1349, G Loss: 4.2364
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_130.png
+Completed Epoch in 53.24705958366394 seconds at t=0.35
+Completed Epoch in 52.48513698577881 seconds at t=0.345
+Completed Epoch in 52.62785768508911 seconds at t=0.33999999999999997
+Completed Epoch in 52.7693612575531 seconds at t=0.33499999999999996
+Completed Epoch in 52.650344371795654 seconds at t=0.32999999999999996
+Epoch [135/200], D Loss: 0.1085, G Loss: 4.7839
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_135.png
+Completed Epoch in 54.56430983543396 seconds at t=0.32499999999999996
+Completed Epoch in 52.64827275276184 seconds at t=0.31999999999999995
+Completed Epoch in 52.32388162612915 seconds at t=0.31499999999999995
+Completed Epoch in 52.195995569229126 seconds at t=0.31000000000000005
+Completed Epoch in 52.55515742301941 seconds at t=0.30500000000000005
+Epoch [140/200], D Loss: 0.1026, G Loss: 4.9333
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_140.png
+Completed Epoch in 53.91413617134094 seconds at t=0.30000000000000004
+Completed Epoch in 51.22841477394104 seconds at t=0.29500000000000004
+Completed Epoch in 51.023738861083984 seconds at t=0.29000000000000004
+Completed Epoch in 51.06209135055542 seconds at t=0.28500000000000003
+Completed Epoch in 51.46252775192261 seconds at t=0.28
+Epoch [145/200], D Loss: 0.0610, G Loss: 7.7735
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_145.png
+Completed Epoch in 52.63685965538025 seconds at t=0.275
+Completed Epoch in 51.09908390045166 seconds at t=0.27
+Completed Epoch in 51.347636699676514 seconds at t=0.265
+Completed Epoch in 50.989063024520874 seconds at t=0.26
+Completed Epoch in 51.48817729949951 seconds at t=0.255
+Epoch [150/200], D Loss: 0.0269, G Loss: 7.4551
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_150.png
+Completed Epoch in 53.11337447166443 seconds at t=0.25
+Completed Epoch in 51.53234910964966 seconds at t=0.245
+Completed Epoch in 51.04647135734558 seconds at t=0.24
+Completed Epoch in 50.61329436302185 seconds at t=0.235
+Completed Epoch in 50.95078158378601 seconds at t=0.22999999999999998
+Epoch [155/200], D Loss: 0.0467, G Loss: 6.6033
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_155.png
+Completed Epoch in 52.69446039199829 seconds at t=0.22499999999999998
+Completed Epoch in 51.50973200798035 seconds at t=0.21999999999999997
+Completed Epoch in 51.08886456489563 seconds at t=0.21499999999999997
+Completed Epoch in 50.936959743499756 seconds at t=0.20999999999999996
+Completed Epoch in 50.86276698112488 seconds at t=0.20499999999999996
+Epoch [160/200], D Loss: 0.0536, G Loss: 6.0236
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_160.png
+Completed Epoch in 52.226576805114746 seconds at t=0.19999999999999996
+Completed Epoch in 50.706647634506226 seconds at t=0.19499999999999995
+Completed Epoch in 51.14525866508484 seconds at t=0.18999999999999995
+Completed Epoch in 51.230193853378296 seconds at t=0.18500000000000005
+Completed Epoch in 50.73596787452698 seconds at t=0.18000000000000005
+Epoch [165/200], D Loss: 0.0449, G Loss: 6.3395
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_165.png
+Completed Epoch in 52.38025259971619 seconds at t=0.17500000000000004
+Completed Epoch in 51.442763566970825 seconds at t=0.17000000000000004
+Completed Epoch in 51.10126543045044 seconds at t=0.16500000000000004
+Completed Epoch in 50.60827159881592 seconds at t=0.16000000000000003
+Completed Epoch in 50.61645841598511 seconds at t=0.15500000000000003
+Epoch [170/200], D Loss: 0.0415, G Loss: 6.3205
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_170.png
+Completed Epoch in 52.86775541305542 seconds at t=0.15000000000000002
+Completed Epoch in 51.38572382926941 seconds at t=0.14500000000000002
+Completed Epoch in 51.56772470474243 seconds at t=0.14
+Completed Epoch in 51.18946027755737 seconds at t=0.135
+Completed Epoch in 50.63210606575012 seconds at t=0.13
+Epoch [175/200], D Loss: 0.0043, G Loss: 19.2311
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_175.png
+Completed Epoch in 52.22947430610657 seconds at t=0.125
+Completed Epoch in 51.04802060127258 seconds at t=0.12
+Completed Epoch in 51.019235372543335 seconds at t=0.11499999999999999
+Completed Epoch in 50.87293219566345 seconds at t=0.10999999999999999
+Completed Epoch in 50.566614389419556 seconds at t=0.10499999999999998
+Epoch [180/200], D Loss: 0.0028, G Loss: 20.2431
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_180.png
+Completed Epoch in 52.296584129333496 seconds at t=0.09999999999999998
+Completed Epoch in 51.360355615615845 seconds at t=0.09499999999999997
+Completed Epoch in 51.16916632652283 seconds at t=0.08999999999999997
+Completed Epoch in 51.00099515914917 seconds at t=0.08499999999999996
+Completed Epoch in 51.676448822021484 seconds at t=0.07999999999999996
+Epoch [185/200], D Loss: 0.0017, G Loss: 18.9139
+Saved generated images to ./gan_outputs/flow/2_full_cos/generated_image_zeros_epoch_185.png
+Completed Epoch in 52.6030912399292 seconds at t=0.07499999999999996

@@ -28,7 +28,7 @@ EPOCHS = 50
 # WARM_UP = 1/2
 LEARNING_RATE = 0.0003
 BETA1 = 0.5
-OUTPUT_DIR = './gan_outputs/flow/1a_overfit_cos'
+OUTPUT_DIR = './gan_outputs/flow/1a_overfit_lin'
 EPSILON = 0.02
 
 # Ensure output directory exists
@@ -120,7 +120,7 @@ def train_gan():
     g_losses = []
     d_losses = []
 
-    t_func, e_func = cosine_flow_funcs(EPOCHS)
+    t_func, e_func = linear_flow_funcs(EPOCHS, cool_down=EPOCHS*(2/5))
     
     # Training loop
     for epoch in range(EPOCHS):
